@@ -1,4 +1,4 @@
-![Celestial Skill Tree Banner](BANNER_URL)
+![Celestial Skill Tree Banner](https://raw.githubusercontent.com/LesteOFF/mod-descriptions/main/celestial-skill-tree/images/banner.png)
 
 **Celestial Skill Tree** is a mod that transforms your progression into a map of the night sky. Each class is a constellation, each skill is a star, and the entire tree is generated based on your specific world—meaning no two worlds will ever have the same tree!
 
@@ -42,11 +42,6 @@ undead don't burn, but respecs are free until it ends.
 Rarely, a monster spawns carrying a small constellation of its own. It is tougher than usual and drops a
 Star Fragment when a player kills it.
 
-### - Respec -
-
-Unlearn a single skill and get back exactly what you paid for it, or reset everything with an
-**Orb of Reconfiguration**.
-
 ---
 
 ## Getting Started
@@ -84,6 +79,13 @@ exactly which file and field is wrong.
 
 **Q: Is it multiplayer friendly?**
 A: Yes. The server validates every purchase, and the server config controls prices, caps and every bonus.
+
+---
+
+## Need a Server?
+
+Want to explore the stars with friends? [**BisectHosting**](https://url-shortener.curseforge.com/pqCuk) has
+ready-to-go modded Minecraft servers, and using this link supports the development of Celestial Skill Tree.
 
 ---
 

@@ -40,11 +40,6 @@ undead don't burn, but respecs are free until it ends.
 Rarely, a monster spawns carrying a small constellation of its own. It is tougher than usual and drops a
 Star Fragment when a player kills it.
 
-### - Respec -
-
-Unlearn a single skill and get back exactly what you paid for it, or reset everything with an
-**Orb of Reconfiguration**.
-
 ---
 
 ## Getting Started
