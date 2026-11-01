@@ -61,6 +61,7 @@ Press **O** (rebindable) to open the star chart. Press **H** inside it for the l
 - Champions
 - Jade
 - KubeJS
+- Legendary Tabs (a tab in the inventory opens the star chart)
 - And more!
 
 ---

@@ -36,6 +36,8 @@ To redraw it after a visual change, run `./gradlew runClient -Pvisualqa -Pgaller
 | `06-stats-panel.png` | Character Stats | Every bonus from the tree, the birth sign and conditional effects in one panel. |
 | `07-birth-chart.png` | Birth Chart | One of twelve signs on your first login, with a bonus that stays forever. |
 | `08-eclipse.png` | Eclipse | Monsters walk in daylight, but respecs are free until dusk. |
+| `09-legendary-tabs.png` | Legendary Tabs | With Legendary Tabs installed, a tab in the inventory opens the star chart. |
+| `10-jei-atlas.png` | JEI | Every item and block has a JEI page saying where it comes from and what it does. |
 
 The screenshots are captured by `./gradlew runClient -Pvisualqa -Pgallery` in the mod repository (saved in
 `run/screenshots/gallery_*.png`).
